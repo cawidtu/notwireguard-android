@@ -44,4 +44,4 @@ jobs:
       uses: actions/upload-artifact@v1
       with:
         name: apk
-        path: ui/build/outputs/apk/release/ui-release-unsigned.apk
+        path: ui/build/outputs/apk/debug/ui-debug.apk
